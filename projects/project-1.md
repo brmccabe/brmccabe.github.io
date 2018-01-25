@@ -11,6 +11,7 @@ labels:
   - EZ Java
 summary: My final project for ICS 111
 ---
+<img class="ui medium middle floated image" src="../images/javascript_logo.png">
 
 This is a video game that I made for my final ICS 111 project.  It was coded in java and uses the EZ java graphics library.  It plays like a classic arcade space shooter.  The player controls a space ship and has to shoot down enemy ships while evading the barrage of bullets that they fire.  The game consists of 1 level which includes several waves of enemies and two bosses.
 
