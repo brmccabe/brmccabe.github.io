@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2.jpg
+image: images/project2.png
 title: Shoot 'em up
 permalink: 
 # All dates must be YYYY-MM-DD format!
