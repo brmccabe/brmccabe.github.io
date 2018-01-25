@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project2.png
 title: Shoot 'em up
-permalink: 
+permalink: projects/shooter
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-02
 labels:
