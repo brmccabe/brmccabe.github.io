@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: Design Patterns
+# All dates must be YYYY-MM-DD format!
+date: 2018-05-01
+labels:
+  - Design Patterns
+  - 
+---
+
+<img class="ui medium left floated image" src="../images/javascript_logo.png">
+<p>first</p>
+<img class="ui medium left circular floated image" src="../images/java_c.jpg">
+<p>second</p>
