@@ -12,4 +12,7 @@ labels:
   - Semantic UI
 summary: My final group project for ICS 314
 ---
-<img class="ui large middle image" src="../images/fityonder2.png">
+<img class="ui medium floated middle image" src="../images/fityonder2.png">
+<p>
+  <a href="http://fityonder.meteorapp.com/#/">click here</a>
+</p>
